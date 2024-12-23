@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+    font-size: 10px;
+    color: white;
+}
+
+h1{
+    font-family: "Regular Libre Baskerville", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    font-weight: 300;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.spiderman{
+    margin: 0px;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    margin-top: 12%;
+}
+
+.spidey{
+    border: solid white;
+    border-width: 5px;
+}
